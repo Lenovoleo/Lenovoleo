@@ -1,6 +1,6 @@
 # Ardasher S.
 - 📫 Reach me: 
-- [linkedin.com/in/sakshigupta06](https://kz.linkedin.com/in/ardasher-sakenov-5a4222249)
+- [Linkedin](https://kz.linkedin.com/in/ardasher-sakenov-5a4222249)
 
 ## Hello World👋, 
 I'm Ardasher,  student. I am a Python Developer.
