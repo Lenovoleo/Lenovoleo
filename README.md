@@ -9,4 +9,4 @@ I'm Ardasher,  student. I am a Python Developer.
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💬 Hobbies : Reading
--  ⚡ Languages: Python3, JS, HTML5, CSS3, SQL
+- ⚡ Skills: Python3, JS, HTML5, CSS3, SQL, 1c, git, GitHub, Django
